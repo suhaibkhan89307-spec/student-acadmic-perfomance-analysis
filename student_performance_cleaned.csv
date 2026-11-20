@@ -1,0 +1,13 @@
+Student_ID,Maths,Science,English,Attendance,Study_Hours_Per_Day,Total_Marks,Percentage,Attendance_Category,Maths_Outlier,Science_Outlier,English_Outlier
+S01,78.0,82.0,75.0,92.0,3.0,235.0,78.33333333333333,Good,False,False,False
+S02,65.0,70.0,68.0,85.0,2.0,203.0,67.66666666666667,Average,False,False,False
+S03,91.0,88.0,86.0,98.0,4.0,265.0,88.33333333333333,Good,False,False,False
+S04,52.0,59.0,64.0,78.0,1.0,175.0,58.333333333333336,Average,False,False,False
+S05,84.0,90.0,79.0,96.0,4.0,253.0,84.33333333333333,Good,False,False,False
+S06,72.0,81.0,73.0,88.0,3.0,226.0,75.33333333333333,Average,False,False,False
+S07,76.0,75.0,82.0,91.0,2.0,233.0,77.66666666666667,Good,False,False,False
+S08,89.0,92.0,75.0,95.0,5.0,256.0,85.33333333333333,Good,False,False,False
+S09,45.0,48.0,55.0,70.0,1.0,148.0,49.333333333333336,Low,False,False,False
+S10,76.0,81.0,77.0,91.0,3.0,234.0,78.0,Good,False,False,False
+S11,98.0,95.0,90.0,99.0,5.0,283.0,94.33333333333333,Good,False,False,False
+S12,12.0,20.0,18.0,45.0,0.5,50.0,16.666666666666668,Low,True,True,True
